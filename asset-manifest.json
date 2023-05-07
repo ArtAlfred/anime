@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/anime/static/js/main.25c0c092.js",
+    "static/media/carousel_2.png": "/anime/static/media/carousel_2.93e20d4d39a5a413b2a0.png",
+    "static/media/carousel_tab_2.png": "/anime/static/media/carousel_tab_2.f651dd31710e365a8f6d.png",
+    "static/media/carousel_3.png": "/anime/static/media/carousel_3.b8e4589df190297e89ce.png",
+    "static/media/carousel_1.png": "/anime/static/media/carousel_1.e7fc5294151657d53d85.png",
+    "static/media/carousel_tab_3.png": "/anime/static/media/carousel_tab_3.24deb3fc2a6007111766.png",
+    "static/media/carousel_tab_1.png": "/anime/static/media/carousel_tab_1.0726ba86feab45926d58.png",
+    "static/media/manga_6.png": "/anime/static/media/manga_6.d63eb6e12472faee2f3c.png",
+    "static/media/manga_5.png": "/anime/static/media/manga_5.16a6bde8055b176b6519.png",
+    "static/media/manga_8.png": "/anime/static/media/manga_8.67bcfaa376c0a3624051.png",
+    "static/media/manga_7.png": "/anime/static/media/manga_7.dfc74169656c921b50e3.png",
+    "static/media/manga_2.png": "/anime/static/media/manga_2.e55aa6c8646048835903.png",
+    "static/media/manga_1.png": "/anime/static/media/manga_1.147635aeb92088d9ca1e.png",
+    "static/media/manga_3.png": "/anime/static/media/manga_3.a21f771d628d18a8cf10.png",
+    "static/media/manga_4.png": "/anime/static/media/manga_4.3d56f835837e260ed5d6.png",
+    "index.html": "/anime/index.html",
+    "main.25c0c092.js.map": "/anime/static/js/main.25c0c092.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.25c0c092.js"
+  ]
+}
